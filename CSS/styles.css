@@ -1,0 +1,237 @@
+body {
+  background-color: #DFEAE7;
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: #007054;
+  text-decoration: none;
+}
+
+p {
+  line-height: 2.5;
+}
+
+hr {
+  border-style: dotted hidden hidden hidden;
+  opacity: 20%;
+  border-width: 7.5px;
+  border-color: #545454;
+  width: 7.5%;
+}
+
+h1 {
+  text-align: center;
+  font-size: 70px;
+  font-weight: 600;
+  font-family: 'Clicker Script', cursive;
+  color: #45b29a;
+  height: 70px;
+  margin: 0;
+  padding-top: 150px;
+}
+
+h2 {
+  margin: 50px 0 50px 0;
+  text-align: center;
+  color: #45b29a;
+  font-size: 70px;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+h3 {
+  margin: 24 0 24 0;
+  color: #3F3D56;
+  font-size: 1.5em;
+}
+
+.logo-move{
+padding-left: 5px;
+float: left;
+margin-top: 85px;
+}
+
+.logo-move2{
+  margin-left: 400px;
+padding-right: 5px;
+float: right;
+margin-top: 50px;
+}
+
+.logo-hr{
+float: left;
+margin-top: 120px;
+}
+
+.logo-hr2{
+float: right;
+margin-top: 120px;
+}
+
+.logo{
+  margin-top: 100px;
+  margin-bottom: 500px;
+}
+
+.logo-p{
+  line-height: 1.5;
+  color: #545454;
+  font-weight: 600;
+  font-size: 1.3em;
+  font-family: 'Nanum Myeongjo', serif;
+  text-align: left;
+  float: right;
+  margin-right: 150px;
+}
+.logo-p2{
+  line-height: 1.5;
+  color: #545454;
+  font-weight: 600;
+  font-size: 1.3em;
+  font-family: 'Nanum Myeongjo', serif;
+  text-align: left;
+  float: left;
+  margin-left: 310px;
+}
+
+.logo-text{
+  font-size: 2em;
+  font-weight: bold;
+  font-family: verdana ,serif;
+  margin-right: 302px;
+  margin-top: 70px;
+  text-align: center;
+  float: right;
+}
+
+.logo-text2{
+  font-size: 2em;
+  font-weight: bold;
+  font-family: verdana ,serif;
+  margin-left: 220px;
+  margin-top: 70px;
+  text-align: center;
+  float: left;
+}
+
+.logo-img{
+  margin-left: 300px;
+  padding-right: 5px;
+  float: left;
+}
+
+.logo-img2{
+  margin-right: 450px;
+  padding-left: 5px;
+  float: right;
+}
+
+.footerardavan{
+  color: #45b29a;
+}
+
+.footer-contact{
+  background-color: #DFEAE7;
+  position: absolute;
+  width: 100%;
+}
+
+.contact-me{
+  margin-top: 900px;
+}
+
+.Contact{
+  background-color: white;
+}
+
+.contacta{
+  color: #007054;
+}
+
+.btn{
+  background-color: #45b29a;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.game-a{
+  font-size: 30px;
+}
+
+.mountain{
+  margin-top: 70px;
+}
+
+.header{
+  background-color: #DFEAE7;
+}
+
+.gaming-page-p {
+  color: #545454;
+}
+
+.Apps-page-p {
+  color: #545454;
+  font-size: 2em;
+}
+
+.heading {
+  text-align: center;
+  position: absolute;
+  right: 850px;
+  font-size: 130%;
+  font-weight: 500;
+  font-family: verdana, serif;
+  color: #45b29a;
+  padding: 0;
+  margin-top: 90px;
+  margin-right: 20px;
+  margin-bottom: 0;
+}
+
+.explaning {
+  color: #545454;
+  text-align: center;
+  margin: 0 0 10px;
+  font-weight: 600;
+  font-size: 1.5em;
+  font-family: 'Nanum Myeongjo', serif;
+}
+
+.top-part {
+  background-color: #DFEAE7;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.hole-page {
+  background-color: white;
+  padding-top: 100px;
+}
+
+.footer{
+  font-size: 25px;
+  color: #444444;
+}
+
+a:hover{
+  color: #45b29a;
+  text-decoration: none;
+}
+
+button:hover{
+  background-color: #007054;
+  color: #45b29a;
+}
+
+::selection {
+  background: #dfeae7;
+  color: #545454;
+  text-shadow: none;
+}
